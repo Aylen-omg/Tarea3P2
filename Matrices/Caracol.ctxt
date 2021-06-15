@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Caracol
+comment1.params=num
+comment1.target=void\ DarTamanio(int)
+comment2.params=
+comment2.target=void\ Ordenar()
+comment3.params=
+comment3.target=void\ MostrarMatriz()
+numComments=4
